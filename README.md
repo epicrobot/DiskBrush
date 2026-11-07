@@ -1,8 +1,10 @@
 # DiskBrush
 
-A small Windows app that shows what is taking up space on your drives. It lists every file, every folder, and every installed app, largest first.
+A standalone disk analysis tool using the C# compiler that lets you see how much (approximate) space specific apps, folders and files take up on each of your hard drives. Intended to be used as a more detailed replacement for the Windows disk search function. See "Known limitations" for known innacuracies in the scanning.
 
 It is **read-only**: it never deletes, moves or changes anything.
+
+This program was created without the full or partial use of any external or third-party repositories. This program should run fully **offline** as well (i.e. no network connection). The app was built with the help of Claude Code.
 
 ## Features
 
