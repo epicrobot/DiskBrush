@@ -1,0 +1,8 @@
+# Build output (share the .exe through GitHub Releases instead)
+bin/
+
+# Private planning notes (contain details about the author's PC)
+plans/
+
+# Exports made with the app
+*.csv
